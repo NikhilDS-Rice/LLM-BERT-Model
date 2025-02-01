@@ -1,4 +1,4 @@
-# COMP576 Project: Sentiment Analysis of YouTube Comments
+# Sentiment Analysis of YouTube Comments
 
 This project focuses on analyzing YouTube comments to determine audience perception using various **deep learning** and **natural language processing (NLP)** techniques. The models implemented include LSTM, GRU, CNN, and the transformer-based **BERT** architecture.
 
