@@ -17,6 +17,9 @@ In the absence of YouTube's dislike count, comments serve as a key indicator of 
 
 BERT significantly outperformed other models, achieving **97% accuracy**, with improvements validated using McNemar’s test.
 
+<img width="477" alt="yt" src="https://github.com/user-attachments/assets/6664921a-fe07-4cc6-b295-f5502ffb91b6" />
+
+
 ---
 
 ## 📁 **Repository Structure**
@@ -44,6 +47,20 @@ The repository contains the following files:
 
 ### **Data**
 - `datasets.7z`: Dataset containing labeled YouTube comments.
+- <img width="470" alt="piechart" src="https://github.com/user-attachments/assets/402c47c8-afcb-44c8-86d7-32a478aac9da" />
+
+### **Results**
+1. **Deep Learning Models Comparison**:
+<img width="470" alt="compare" src="https://github.com/user-attachments/assets/3b3c8a58-a1bf-4356-b5a7-4487fb240986" />
+ 
+2. **Confusion Matrix of BERT Model**: 
+<img width="470" alt="confusionMatrixBERT" src="https://github.com/user-attachments/assets/a3fa949b-ae12-42d4-82c1-06c9a6aedded" />
+
+3. **McNemar test on test dataset**: 
+<img width="470" alt="McNemar test all models" src="https://github.com/user-attachments/assets/7ab2625e-aa32-44f8-a03a-b4f30dd87888" />
+
+
+
 
 ---
 
