@@ -51,5 +51,4 @@ The repository contains the following files:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Krish-Arulalan/COMP576_Project.git
-   cd COMP576_Project
+   git clone https://github.com/NikhilDS-Rice/LLM-BERT-Model.git
